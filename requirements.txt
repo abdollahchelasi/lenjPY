@@ -1,0 +1,4 @@
+hydralit_components==1.0.10
+st_annotated_text==4.0.0
+streamlit==1.22.0
+streamlit_option_menu==0.3.6

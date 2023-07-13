@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+
+
+*{
+    direction: rtl;
+    color: #59ee34;
+    font-family: 'Lalezar', cursive;
+}
+p{
+    text-align: center;
+}
+a{
+    background-color: #3a4636;
+    text-decoration: none;
+    border-radius: 11px;
+    text-align: center;
+    padding: 9px;
+
+}
+
+
+
+a:hover{
+    text-decoration: none;
+    color: aliceblue;
+    box-shadow: white 2px 2px 8px;
+}
+.navbar-collapse{
+    direction: rtl;
+    
+}
+
+@keyframes t {
+
+    10%{text-shadow: #7cdb64 1px 1px 8px;}
+    20%{text-shadow: #6ce49e 1px 1px 14px;}
+    30%{text-shadow: #eed919 1px 1px 18px;}
+    40%{text-shadow: #9855f0 1px 1px 8px;}
+    
+}
+.css-10trblm.e16nr0p30{
+    animation-name: t;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    text-shadow: #59ee34 1px 1px 8px;
+    /* text-align: center; */
+    
+    font-size: 25px;
+}
+
+.css-1v0mbdj.etr89bj1 img{
+    border-radius: 11px;
+    width: 1000px;
+    text-align: center;
+    height: 250px;
+}
+
+.css-1wncz92.e16nr0p34 p{
+    background-color: #3a4636;
+    text-align: center;
+    border-radius: 11px;
+    border-style: groove;
+    padding: 11px;
+}
